@@ -1,0 +1,8 @@
+VLAN,Purpose,Subnet
+100,Student wired,10.100.0.0/16
+110,Staff wired,10.110.0.0/16
+200,Student wireless,10.200.0.0/16
+210,Staff wireless,10.210.0.0/16
+300,Guest,10.300.0.0/16
+400,CCTV,10.400.0.0/16
+900,Management,10.900.0.0/24

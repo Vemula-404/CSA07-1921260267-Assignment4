@@ -1,0 +1,13 @@
+T568B pin order (1 → 8):
+1 White/Orange
+2 Orange
+3 White/Green
+4 Blue
+5 White/Blue
+6 Green
+7 White/Brown
+8 Brown
+
+Straight-through: both ends T568B.
+Cable tester: LEDs 1-2-3-4-5-6-7-8 on both ends.
+Mixed A/B ends = crossover — works only with Auto-MDIX.
